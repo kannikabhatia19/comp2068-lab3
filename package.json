@@ -1,0 +1,14 @@
+{
+  "name": "comp2068-lab3",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lab3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.5.0"
+  }
+}
